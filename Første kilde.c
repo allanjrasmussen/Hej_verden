@@ -1,0 +1,1 @@
+FPRINT('HEJ VERDEN');
