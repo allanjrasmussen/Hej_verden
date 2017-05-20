@@ -1,1 +1,1 @@
-FPRINT('HEJ VERDEN');
+fprint('HEJ VERDEN');
